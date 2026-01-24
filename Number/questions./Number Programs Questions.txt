@@ -1,0 +1,148 @@
+Number Programs:
+
+Basic-level: 
+ 
+1. WAPT check whether the given number is even or odd 
+2. WAPTP sum of the numbers between m to n 
+3. WAPTP product of the numbers between m to n 
+4. WAPT count the numbers from m to n 
+5. WAPT swap two numbers 
+6. Using third variable 
+7. Without using third variable 
+8. WAPTP square of a given number 
+9. WAPTP cube of a given number 
+10. WAPTP factorial value of a number 
+11. WAPTP factors of the number 
+12. WAPTP Fibonacci series 
+13. WAPTP the exponential value for a given base and power (x ^ n) 
+14. WAPT extract digits in reverse order 
+15. Print 
+16. Count 
+17. Sum 
+18. Product 
+19. WAPT Reverse a Number. 
+
+
+Medium-level:
+
+1. WAP to Print the multiplication table of a number 
+2. WAP to check whether the given number is prime or not. 
+3. WAP to print the sum of prime numbers from m to n 
+4. WAP to print the product of prime numbers from m to n 
+5. WAP to print the sum of the factors of a number. 
+6. WAP to print the product of the factors of a number. 
+7. WAP to print sum of even and odd factors in a given number. 
+8. WAP to print product of even and odd factors in a given number 
+9. WAP to count the digits in a given number. 
+10. WAP to print even digits in a given number. 
+11. WAP to print odd digits in a given number 
+12. WAP to print sum of digits in a given number 
+13. WAP to print product of digits in a given number 
+14. WAP to print sum of even digits in a given number 
+15. WAP to print sum of prime digits in a given number 
+16. WAP to print product of prime digits in a given number. 
+17. WAP to print the factorial of each digit in a given number. 
+18. WAP to print the sum of factorial of each digit in a given number. 
+19. WAP to print the factorial of even digits in a given number 
+20. WAP to print the factorial of odd digits in a given number. 
+21. WAP to print the power of each digit to the count number of digits in the given number. 
+22. WAP to print the sum of power of each digit to the count number of digits in the given 
+number. 
+23. WAP to print the sum of power of even digit to the count number of digits in the given 
+number. 
+24. WAP to print the sum of power of odd digit to the count number of digits in the given 
+number. 
+25. WAP to Print the nth prime number. 
+26. WAP to Print the next prime number for a given number. 
+27. WAP to Print the nth Fibonacci number 
+28. WAP to Check if a number is a Fibonacci number. 
+29. WAP to Find the largest digit in a given number. 
+30. WAP to Find the smallest digit in a given number. 
+31. WAP to Find the nth Largest digit in a given number. 
+32. WAP to Find the nth smallest digit in a given number. 
+33. WAP to Find the sum of smallest digit and largest digit in a given number. 
+34. WAP to Find the sum of nth smallest digit and nth largest digit in a given number. 
+35. WAP to Find the binary representation of a number. 
+36. WAP to Find the decimal representation of a binary number. 
+37. WAP to Find the GCD or HCF of two numbers. 
+38. WAP to Find the LCM of two numbers.
+
+
+Advance-level:
+
+1. Twisted Prime Number 
+	A Twisted Prime Number is a prime number that remains prime when its digits are reversed. 
+2. Mega Prime Number 
+	A Mega Prime Number is a prime number where all its digits are also prime numbers. 
+3. Palindrome Number 
+	A Palindrome Number is a number that remains the same when its digits are reversed 
+4. SPY Number 
+	A SPY Number is a number where the sum of its digits is equal to the product of its digits. 
+5. Perfect Number 
+	A Perfect Number is a number that is equal to the sum of its factors (excluding the number itself). 
+6. Strong Number 
+	A Strong Number is a number whose sum of the factorial of its digits is equal to the original number. 
+7. Neon Number 
+	A Neon Number is a number where the sum of the digits of its square is equal to the original number. 
+8. Armstrong Number 
+	An Armstrong Number is a number in which the sum of its digits raised to the power of the total number of digits is equal to the number itself. 
+9. Sunny Number 
+	A Sunny Number is a number where the number + 1 is a perfect square. 
+10. Automorphic Number 
+	An Automorphic Number is a number whose square ends with the same digits as the number itself. 
+11. Magic Number 
+	A Magic Number is a number in which the recursive sum of digits (until a single digit) is 1.
+12. Tech Number 
+	A Tech Number is a number with even number of digits, which when split into two equal halves and added together, the square of the sum is equal to the original number. 
+13. Harshad Number 
+	A Harshad Number (also called Niven Number) is a number which is completely divisible by the sum of its digits. 
+
+Level – I 
+1. WAP to check whether the given number is Twisted Prime Number or not. 
+2. WAP to check whether the given number is a Mega Prime Number or not. 
+3. WAP to check whether the given number is a Palindrome Number or not 
+4. WAP to check whether the given number is a SPY Number or not. 
+5. WAP to check whether the given number is a Perfect Number or not. 
+6. WAP to check whether the given number is a Strong Number or not. 
+7. WAP to check whether the given number is a Neon Number or not. 
+8. WAP to check whether the given number is an Armstrong Number or not. 
+9. WAP to check whether the given number is a Sunny Number or not. 
+10. WAP to check whether the given number is an Automorphic Number or not. 
+11. WAP to check whether the given number is a Magic Number or not. 
+12. WAP to check whether the given number is a Tech Number or not. 
+13. WAP to check whether the given number is a Harshad (Niven) Number or not. 
+14. WAP to check whether the given number is a Evil Number or not. 
+
+Level – II 
+1. WAP to print the Twisted Prime numbers present in the range of m to n. 
+2. WAP to print the Mega Prime numbers present in the range of m to n. 
+3. WAP to print the Palindrome numbers present in the range of m to n. 
+4. WAP to print the SPY numbers present in the range of m to n. 
+5. WAP to print the Perfect numbers present in the range of m to n. 
+6. WAP to print the Strong numbers present in the range of m to n. 
+7. WAP to print the Neon numbers present in the range of m to n. 
+8. WAP to print the Armstrong numbers present in the range of m to n. 
+9. WAP to print the Sunny numbers present in the range of m to n. 
+10. WAP to print the Automorphic numbers present in the range of m to n. 
+11. WAP to print the Magic numbers present in the range of m to n. 
+12. WAP to print the Tech numbers present in the range of m to n. 
+13. WAP to print the Harshad (Niven) numbers present in the range of m to n. 
+14. WAP to print the Evil numbers present in the range of m to n. 
+
+Level – III 
+1. WAP to print the nth Prime number. 
+2. WAP to print the nth Twisted Prime number. 
+3. WAP to print the nth Mega Prime number. 
+4. WAP to print the nth Palindrome number. 
+5. WAP to print the nth Sunny number. 
+6. WAP to print the nth Automorphic number. 
+7. WAP to print the nth Magic number. 
+8. WAP to print the nth Harshad (Niven) number. 
+9. WAP to print the nth Evil number 
+ 
+Miscellaneous Number Series 
+1. Print the Lucas series up to n terms 
+2. Print the factorial series up to n terms. 
+3. Generate the Collatz sequence for a number. 
+4. Find the GCD or HCF of three numbers. 
+5. Generate the first n terms of a Tribonacci sequence.
